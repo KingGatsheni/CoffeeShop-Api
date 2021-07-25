@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VMfWh+LhstY4r3zR6UtZz3kCW/p8GfTNxa/iokJmJgLYbIUScvFcLecLGGXljCGbgvHMmg2WH5Ghd7ppUohgMw==",
+  "dgSpecHash": "cJ7EXPivPhLoK0hMcoH5gCux9fu5XbfmilWc/mP0YHSOeL/D1YLMZUBVPRqJUrrd+DOm23IOpuniVNSJxTrNtQ==",
   "success": true,
-  "projectFilePath": "/home/sihle/RiderProjects/cs-Api/cs-Api.csproj",
+  "projectFilePath": "/home/sihle/RiderProjects/Project00/cs-Api/cs-Api.csproj",
   "expectedPackageFiles": [
     "/home/sihle/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/sihle/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

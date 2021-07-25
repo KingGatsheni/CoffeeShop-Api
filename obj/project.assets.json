@@ -8970,11 +8970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sihle/RiderProjects/cs-Api/cs-Api.csproj",
+      "projectUniqueName": "/home/sihle/RiderProjects/Project00/cs-Api/cs-Api.csproj",
       "projectName": "cs-Api",
-      "projectPath": "/home/sihle/RiderProjects/cs-Api/cs-Api.csproj",
+      "projectPath": "/home/sihle/RiderProjects/Project00/cs-Api/cs-Api.csproj",
       "packagesPath": "/home/sihle/.nuget/packages/",
-      "outputPath": "/home/sihle/RiderProjects/cs-Api/obj/",
+      "outputPath": "/home/sihle/RiderProjects/Project00/cs-Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sihle/.nuget/NuGet/NuGet.Config"

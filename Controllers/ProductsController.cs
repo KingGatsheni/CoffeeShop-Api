@@ -11,6 +11,7 @@ namespace cs_Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    // Allow CORS for all origins. (Caution!)
     public class ProductsController : ControllerBase
     {
         private readonly CoffeeDbContext _context;
@@ -52,6 +53,7 @@ namespace cs_Api.Controllers
             }
 
             _context.Entry(tblProduct).State = EntityState.Modified;
+            
 
             try
             {
